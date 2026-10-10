@@ -1,0 +1,83 @@
+# Archestack
+
+> Independent rankings of open-source AI and vibe coding projects. Every project is fact-checked on GitHub (stars, last commit, license, Docker files), scored out of 100 from public GitHub signals, and reviewed with strengths and weaknesses. No pay-to-rank.
+
+- [All projects as JSON](https://archestack.github.io/data.json): every ranked project with its score, place, review and page URL (CC BY 4.0)
+
+## Best of Vibe Coding
+
+Best of Vibe Coding is a ranked list of 167 open-source projects for building software with AI: starter templates and SaaS boilerplates, coding agents and assistants, editors, skills and plugins, MCP servers for developers, code review, design to code, and the backends and hosting you ship on. Each entry has strengths, weaknesses and a score from public GitHub signals.
+
+- [Best of Vibe Coding](https://archestack.github.io/best-of-vibe-coding/): top 10, every category, how the score works
+- [Chat apps](https://archestack.github.io/best-of-vibe-coding/chat-apps/): Chat interfaces and single-feature text apps you fork as the base of a conversational product.
+- [RAG and search](https://archestack.github.io/best-of-vibe-coding/rag-search/): Retrieval over your own documents or data, answer engines, and natural-language-to-SQL starters.
+- [Agent backends](https://archestack.github.io/best-of-vibe-coding/agents/): Agent templates and scaffolds (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Agents, eve) meant to be extended.
+- [Agent UI and generative UI](https://archestack.github.io/best-of-vibe-coding/agent-ui/): Frontends that render agent steps, tool calls, approvals or model-generated components.
+- [Voice and realtime](https://archestack.github.io/best-of-vibe-coding/voice-realtime/): Voice agents, realtime speech-to-speech apps and their web, phone and native clients.
+- [MCP servers and chat-host apps](https://archestack.github.io/best-of-vibe-coding/mcp-apps/): Templates for building MCP servers and apps that run inside chat hosts such as ChatGPT.
+- [SaaS boilerplates](https://archestack.github.io/best-of-vibe-coding/saas-with-ai/): Product boilerplates with auth, billing and a database wired in, with AI features built in or ready to add.
+- [App builder starters](https://archestack.github.io/best-of-vibe-coding/app-builders/): Prompt-to-app builders and platforms that run coding agents in sandboxes.
+- [AI editors and workflow canvases](https://archestack.github.io/best-of-vibe-coding/editors-workflows/): Rich-text editors with AI commands and node-based canvases for chaining model calls.
+- [Cloud reference architectures](https://archestack.github.io/best-of-vibe-coding/cloud-reference/): Vendor reference apps and infrastructure-as-code for running AI apps on Azure or Google Cloud.
+- [AI API backends](https://archestack.github.io/best-of-vibe-coding/api-backends/): Backend service templates (FastAPI, Express, Hono) that expose models or agents over an API.
+- [Mobile and browser extensions](https://archestack.github.io/best-of-vibe-coding/mobile-extensions/): Native, cross-platform mobile and browser-extension starters with AI features built in.
+- [Coding agents and assistants](https://archestack.github.io/best-of-vibe-coding/coding-agents/): Agents and assistants that read your repo, write code and run commands: CLIs, IDE extensions and self-hosted servers.
+- [Skills, plugins and rules](https://archestack.github.io/best-of-vibe-coding/skills-plugins/): Add-ons that make coding agents better: skills, plugins, rules, hooks and memory for Claude Code, Codex, Cursor and others.
+- [MCP servers for developers](https://archestack.github.io/best-of-vibe-coding/dev-mcp/): MCP servers that give coding agents tools: docs lookup, browsers, GitHub, databases and code navigation.
+- [Code review and testing](https://archestack.github.io/best-of-vibe-coding/code-review/): AI tools that review pull requests, write tests or find bugs, run in your CI or on your machine.
+- [Design to code](https://archestack.github.io/best-of-vibe-coding/design-to-code/): Tools that turn screenshots, mockups or visual edits into working front-end code.
+- [Backends and databases](https://archestack.github.io/best-of-vibe-coding/backends/): Open-source backends you ship apps on: auth, database, storage and APIs in one, self-hosted or managed.
+- [Deploy and hosting](https://archestack.github.io/best-of-vibe-coding/deploy/): Self-hosted platforms that deploy and run your apps from Git or Docker on your own servers.
+
+## Best of Open-Source AI
+
+Best of Open-Source AI is a ranked list of 155 open-source AI projects: chat apps and assistants, desktop apps, agent platforms and frameworks, workflow automation, RAG, memory, model serving, open models, training, image, video and voice, vector databases, gateways, observability, sandboxes, data tools, MCP servers and learning material. Each entry has strengths, weaknesses, specs and a score from public GitHub signals.
+
+- [Best of Open-Source AI](https://archestack.github.io/best-of-ai/): top 10, every category, how the score works
+- [Assistants](https://archestack.github.io/best-of-ai/assistants/): Personal AI assistants you run yourself and talk to through chat apps, with memory and the ability to act.
+- [Chat UIs](https://archestack.github.io/best-of-ai/chat-ui/): Web front-ends for local or API models, usually with user accounts, chat history and file upload.
+- [Agent platforms](https://archestack.github.io/best-of-ai/agent-platforms/): Visual or code-first builders for agents and workflows, with orchestration, tools and deployment.
+- [Workflow automation with AI](https://archestack.github.io/best-of-ai/automation/): Workflow and integration platforms with AI steps or agent nodes, for wiring models into the rest of your tools.
+- [RAG and knowledge](https://archestack.github.io/best-of-ai/rag-knowledge/): Document Q&A, knowledge bases and enterprise search over your own files and data.
+- [Search](https://archestack.github.io/best-of-ai/search/): Private search engines and AI answer engines that keep queries on your host.
+- [Voice](https://archestack.github.io/best-of-ai/voice/): Speech-to-text, text-to-speech, voice agents and meeting tools that run locally.
+- [Image and video](https://archestack.github.io/best-of-ai/image-video/): Generation UIs and pipelines for images and video, usually around diffusion models.
+- [Security](https://archestack.github.io/best-of-ai/security/): AI agents and tools for penetration testing, red-teaming and finding vulnerabilities in your own apps and models.
+- [Memory](https://archestack.github.io/best-of-ai/memory/): Long-term memory engines that store and retrieve facts for agents across sessions.
+- [Model serving](https://archestack.github.io/best-of-ai/model-serving/): Inference engines and model servers that expose local models over an API.
+- [Gateways](https://archestack.github.io/best-of-ai/gateways/): LLM gateways and proxies for routing, caching, rate limits and cost control across providers.
+- [Observability](https://archestack.github.io/best-of-ai/observability/): Tracing, evaluation and prompt management for LLM applications.
+- [Vector databases](https://archestack.github.io/best-of-ai/vector-db/): Vector stores and hybrid search engines for embeddings.
+- [Sandboxes](https://archestack.github.io/best-of-ai/sandboxes/): Isolated runtimes where agents execute code, browse or use tools safely.
+- [Data and scraping for AI](https://archestack.github.io/best-of-ai/data-tools/): Tools that turn web pages, PDFs and documents into clean text or structured data that models can use.
+
+## Open-source alternatives
+
+- [Open-source alternatives to Cursor](https://archestack.github.io/alternatives/cursor/)
+- [Open-source alternatives to GitHub Copilot](https://archestack.github.io/alternatives/github-copilot/)
+- [Open-source alternatives to Claude Code](https://archestack.github.io/alternatives/claude-code/)
+- [Open-source alternatives to Devin](https://archestack.github.io/alternatives/devin/)
+- [Open-source alternatives to Tabnine](https://archestack.github.io/alternatives/tabnine/)
+- [Open-source alternatives to Lovable](https://archestack.github.io/alternatives/lovable/)
+- [Open-source alternatives to v0](https://archestack.github.io/alternatives/v0/)
+- [Open-source alternatives to Bolt.new](https://archestack.github.io/alternatives/bolt-new/)
+- [Open-source alternatives to Replit](https://archestack.github.io/alternatives/replit/)
+- [Open-source alternatives to CodeRabbit](https://archestack.github.io/alternatives/coderabbit/)
+- [Open-source alternatives to Firebase](https://archestack.github.io/alternatives/firebase/)
+- [Open-source alternatives to Vercel](https://archestack.github.io/alternatives/vercel/)
+- [Open-source alternatives to Heroku](https://archestack.github.io/alternatives/heroku/)
+- [Open-source alternatives to ChatGPT](https://archestack.github.io/alternatives/chatgpt/)
+- [Open-source alternatives to Perplexity](https://archestack.github.io/alternatives/perplexity/)
+- [Open-source alternatives to LM Studio](https://archestack.github.io/alternatives/lm-studio/)
+- [Open-source alternatives to Glean](https://archestack.github.io/alternatives/glean/)
+- [Open-source alternatives to Copilot Studio](https://archestack.github.io/alternatives/copilot-studio/)
+- [Open-source alternatives to NotebookLM](https://archestack.github.io/alternatives/notebooklm/)
+- [Open-source alternatives to Zapier](https://archestack.github.io/alternatives/zapier/)
+- [Open-source alternatives to OpenAI API](https://archestack.github.io/alternatives/openai-api/)
+- [Open-source alternatives to OpenRouter](https://archestack.github.io/alternatives/openrouter/)
+- [Open-source alternatives to LangSmith](https://archestack.github.io/alternatives/langsmith/)
+- [Open-source alternatives to Pinecone](https://archestack.github.io/alternatives/pinecone/)
+- [Open-source alternatives to Midjourney](https://archestack.github.io/alternatives/midjourney/)
+- [Open-source alternatives to ElevenLabs](https://archestack.github.io/alternatives/elevenlabs/)
+- [Open-source alternatives to Otter.ai](https://archestack.github.io/alternatives/otter-ai/)
+- [Open-source alternatives to Mem](https://archestack.github.io/alternatives/mem/)
