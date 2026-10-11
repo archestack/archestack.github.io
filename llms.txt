@@ -3,6 +3,7 @@
 > Independent rankings of open-source AI and vibe coding projects. Every project is fact-checked on GitHub (stars, last commit, license, Docker files), scored out of 100 from public GitHub signals, and reviewed with strengths and weaknesses. No pay-to-rank.
 
 - [All projects as JSON](https://archestack.github.io/data.json): every ranked project with its score, place, review and page URL (CC BY 4.0)
+- [Open data API](https://archestack.github.io/api/): per-project, per-category and per-list JSON with score parts, facts and reviews; index at https://archestack.github.io/api/v1/index.json
 
 ## Best of Vibe Coding
 
