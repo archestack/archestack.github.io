@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://archestack.github.io/sitemap.xml
+Sitemap: https://archestack.com/sitemap.xml
