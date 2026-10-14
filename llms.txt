@@ -73,6 +73,7 @@ Best of Open-Source AI is a ranked list of 180 open-source AI projects: chat app
 - [Open-source alternatives to Vercel](https://archestack.com/alternatives/vercel/)
 - [Open-source alternatives to Heroku](https://archestack.com/alternatives/heroku/)
 - [Open-source alternatives to Vapi](https://archestack.com/alternatives/vapi/)
+- [Open-source alternatives to ShipFast](https://archestack.com/alternatives/shipfast/)
 - [Open-source alternatives to ChatGPT](https://archestack.com/alternatives/chatgpt/)
 - [Open-source alternatives to Manus](https://archestack.com/alternatives/manus/)
 - [Open-source alternatives to Perplexity](https://archestack.com/alternatives/perplexity/)
@@ -89,3 +90,5 @@ Best of Open-Source AI is a ranked list of 180 open-source AI projects: chat app
 - [Open-source alternatives to ElevenLabs](https://archestack.com/alternatives/elevenlabs/)
 - [Open-source alternatives to Otter.ai](https://archestack.com/alternatives/otter-ai/)
 - [Open-source alternatives to Mem](https://archestack.com/alternatives/mem/)
+- [Open-source alternatives to Apify](https://archestack.com/alternatives/apify/)
+- [Open-source alternatives to LlamaParse](https://archestack.com/alternatives/llamaparse/)
