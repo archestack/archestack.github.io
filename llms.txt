@@ -9,7 +9,7 @@
 
 ## Best of Vibe Coding
 
-Best of Vibe Coding is a ranked list of 191 open-source projects for building software with AI: starter templates and SaaS boilerplates, coding agents and assistants, editors, skills and plugins, MCP servers for developers, code review, design to code, and the backends and hosting you ship on. Each entry has strengths, weaknesses and a score from public GitHub signals.
+Best of Vibe Coding is a ranked list of 215 open-source projects for building software with AI: starter templates and SaaS boilerplates, coding agents and assistants, editors, skills and plugins, MCP servers for developers, code review, design to code, and the backends and hosting you ship on. Each entry has strengths, weaknesses and a score from public GitHub signals.
 
 - [Best of Vibe Coding](https://archestack.com/best-of-vibe-coding/): top 10, every category, how the score works
 - [Chat apps](https://archestack.com/best-of-vibe-coding/chat-apps/): Chat interfaces and single-feature text apps you fork as the base of a conversational product.
@@ -25,16 +25,18 @@ Best of Vibe Coding is a ranked list of 191 open-source projects for building so
 - [AI API backends](https://archestack.com/best-of-vibe-coding/api-backends/): Backend service templates (FastAPI, Express, Hono) that expose models or agents over an API.
 - [Mobile and browser extensions](https://archestack.com/best-of-vibe-coding/mobile-extensions/): Native, cross-platform mobile and browser-extension starters with AI features built in.
 - [Coding agents and assistants](https://archestack.com/best-of-vibe-coding/coding-agents/): Agents and assistants that read your repo, write code and run commands: CLIs, IDE extensions and self-hosted servers.
+- [Editors and IDEs](https://archestack.com/best-of-vibe-coding/editors/): Code editors with AI built in, open source and runnable on your own machine.
 - [Skills, plugins and rules](https://archestack.com/best-of-vibe-coding/skills-plugins/): Add-ons that make coding agents better: skills, plugins, rules, hooks and memory for Claude Code, Codex, Cursor and others.
 - [MCP servers for developers](https://archestack.com/best-of-vibe-coding/dev-mcp/): MCP servers that give coding agents tools: docs lookup, browsers, GitHub, databases and code navigation.
 - [Code review and testing](https://archestack.com/best-of-vibe-coding/code-review/): AI tools that review pull requests, write tests or find bugs, run in your CI or on your machine.
 - [Design to code](https://archestack.com/best-of-vibe-coding/design-to-code/): Tools that turn screenshots, mockups or visual edits into working front-end code.
+- [Prompts and system prompts](https://archestack.com/best-of-vibe-coding/prompts/): Collections of prompts, system prompts and agent instructions to learn from or reuse.
 - [Backends and databases](https://archestack.com/best-of-vibe-coding/backends/): Open-source backends you ship apps on: auth, database, storage and APIs in one, self-hosted or managed.
 - [Deploy and hosting](https://archestack.com/best-of-vibe-coding/deploy/): Self-hosted platforms that deploy and run your apps from Git or Docker on your own servers.
 
 ## Best of Open-Source AI
 
-Best of Open-Source AI is a ranked list of 206 open-source AI projects: chat apps and assistants, desktop apps, agent platforms and frameworks, workflow automation, RAG, memory, model serving, open models, training, image, video and voice, vector databases, gateways, observability, sandboxes, data tools, MCP servers and learning material. Each entry has strengths, weaknesses, specs and a score from public GitHub signals.
+Best of Open-Source AI is a ranked list of 231 open-source AI projects: chat apps and assistants, desktop apps, agent platforms and frameworks, workflow automation, RAG, memory, model serving, open models, training, image, video and voice, vector databases, gateways, observability, sandboxes, data tools, MCP servers and learning material. Each entry has strengths, weaknesses, specs and a score from public GitHub signals.
 
 - [Best of Open-Source AI](https://archestack.com/best-of-ai/): top 10, every category, how the score works
 - [Assistants](https://archestack.com/best-of-ai/assistants/): Personal AI assistants you run yourself and talk to through chat apps, with memory and the ability to act.
@@ -50,6 +52,7 @@ Best of Open-Source AI is a ranked list of 206 open-source AI projects: chat app
 - [Agent frameworks and SDKs](https://archestack.com/best-of-ai/agent-frameworks/): Libraries for building agents and LLM apps in code: tool calling, planning, multi-agent setups and browser control.
 - [Memory](https://archestack.com/best-of-ai/memory/): Long-term memory engines that store and retrieve facts for agents across sessions.
 - [Model serving](https://archestack.com/best-of-ai/model-serving/): Inference engines and model servers that expose local models over an API.
+- [Open models](https://archestack.com/best-of-ai/models/): Repositories of open-weight models with the code to run them: LLMs, vision, speech and embedding models.
 - [Training and fine-tuning](https://archestack.com/best-of-ai/training/): Tools to fine-tune, train or distill models on your own data and GPUs, from LoRA scripts to full training stacks.
 - [ML frameworks and libraries](https://archestack.com/best-of-ai/ml-frameworks/): The libraries models are built and run with: tensor frameworks, model zoos and the tooling around them.
 - [Gateways](https://archestack.com/best-of-ai/gateways/): LLM gateways and proxies for routing, caching, rate limits and cost control across providers.
