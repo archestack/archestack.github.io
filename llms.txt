@@ -5,6 +5,7 @@
 - [All projects as JSON](https://archestack.com/data.json): every ranked project with its score, place, review and page URL (CC BY 4.0)
 - [Open data API](https://archestack.com/api/): per-project, per-category and per-list JSON with score parts, facts and reviews; index at https://archestack.com/api/v1/index.json
 - [MCP server](https://github.com/archestack/mcp): `npx -y @archestack/mcp`, read-only tools over the API (search, top of a category, one project, compare, alternatives)
+- [Rising](https://archestack.com/rising/): the listed projects with the most GitHub stars gained in the last 7 and 30 days, from GitHub's daily star counts; RSS at https://archestack.com/rising.xml
 
 ## Best of Vibe Coding
 
@@ -33,7 +34,7 @@ Best of Vibe Coding is a ranked list of 191 open-source projects for building so
 
 ## Best of Open-Source AI
 
-Best of Open-Source AI is a ranked list of 180 open-source AI projects: chat apps and assistants, desktop apps, agent platforms and frameworks, workflow automation, RAG, memory, model serving, open models, training, image, video and voice, vector databases, gateways, observability, sandboxes, data tools, MCP servers and learning material. Each entry has strengths, weaknesses, specs and a score from public GitHub signals.
+Best of Open-Source AI is a ranked list of 206 open-source AI projects: chat apps and assistants, desktop apps, agent platforms and frameworks, workflow automation, RAG, memory, model serving, open models, training, image, video and voice, vector databases, gateways, observability, sandboxes, data tools, MCP servers and learning material. Each entry has strengths, weaknesses, specs and a score from public GitHub signals.
 
 - [Best of Open-Source AI](https://archestack.com/best-of-ai/): top 10, every category, how the score works
 - [Assistants](https://archestack.com/best-of-ai/assistants/): Personal AI assistants you run yourself and talk to through chat apps, with memory and the ability to act.
